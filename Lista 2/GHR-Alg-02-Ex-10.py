@@ -1,0 +1,1 @@
+mat = (int(input("digite a matricula:")))
